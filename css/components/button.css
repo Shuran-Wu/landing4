@@ -1,0 +1,8 @@
+.btn-red{
+	background-color: #dd2c00;
+	padding: 5px 30px;
+	border-radius:4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
